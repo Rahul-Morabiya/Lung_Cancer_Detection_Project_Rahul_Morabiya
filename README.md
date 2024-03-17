@@ -1,4 +1,4 @@
-#Lung Cancer Detection with Federated Learning Algorithms & ResNet Model
+# Lung Cancer Detection with Federated Learning Algorithms & ResNet Model
 
 Project Overview:
 This repository houses a comprehensive lung cancer detection framework developed using deep learning models and federated learning algorithms. The project utilizes Python, Keras, TensorFlow, and Kaggle's LIDC dataset to facilitate lung cancer detection.
@@ -7,10 +7,10 @@ Contributors:
 
 Rahul Morabiya
 Raj Borad
-#Non-Federated Learning Models:
+# Non-Federated Learning Models:
 In this project, various non-federated learning models such as Regularized CNN, ResNet152V2, VIT, VGG19, EfficientNetB7 and BiLSTM CNN are employed to classify images for lung cancer detection. The repository includes detailed architecture diagrams, evaluation metrics (loss, accuracy, recall, precision, AUC), and performance data for each model along with plots for data visualisation.
 
-#Federated Learning Models:
+# Federated Learning Models:
 Additionally, the project explores federated learning algorithms, including Federated Average, Federated Proximal, and Federated Adagrad, for lung cancer detection. Evaluation metrics are employed to compare the performance of federated learning models with non-federated counterparts. The analysis includes client accuracy and loss plots over communication rounds, providing insights into model performance and scalability and plots for data visualisation.
 
 All of the above can be found in the code that has been provided in the repository.
