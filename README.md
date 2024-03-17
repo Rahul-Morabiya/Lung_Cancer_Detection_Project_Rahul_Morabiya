@@ -1,5 +1,7 @@
 # Lung Cancer Detection with Federated Learning Algorithms & ResNet Model
 
+(Most of the data can be found directly in the main code .)
+
 Project Overview:
 This repository houses a comprehensive lung cancer detection framework developed using deep learning models and federated learning algorithms. The project utilizes Python, Keras, TensorFlow, and Kaggle's LIDC dataset to facilitate lung cancer detection.
 
